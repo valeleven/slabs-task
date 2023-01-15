@@ -1,0 +1,8 @@
+resource_group_name     = "umbraco-test01"
+resource_group_location = "westeurope"
+app_service_plan_name   = "appserviceplan-web-21"
+app_service_name        = "terraform-web-021"
+sql_server_name         = "umbracosrv01"
+sql_database_name       = "Umbraco01"
+sql_admin_login         = "user01"
+sql_admin_password      = "@Aa123456789!"
